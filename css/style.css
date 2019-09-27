@@ -27,6 +27,11 @@ border-radius:50%;
 @media only screen and (max-width:1080px){
 	#profile{
 	width:100%;
+	font-size: 14px;
+	}
+	
+	.texto{
+		font-size: 14px;
 	}
 }
 
